@@ -46,7 +46,9 @@ body {
       padding-right: 30px; } }
 
 h1 {
-  font-size: 4.8rem; }
+  color: white; 
+  text-shadow: black 0.1em 0.1em 0.2em}
+  font-size: 5.8rem; }
 
 h2 {
   font-size: 3.6rem; }
